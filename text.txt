@@ -1,0 +1,1 @@
+basic project set up with authentication, authorization, email and socket configuration
